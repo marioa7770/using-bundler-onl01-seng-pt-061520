@@ -38,8 +38,6 @@ describe "Bundler" do
     end
 
     # http://bundler.io/git.html
-    it "should list the awesome_print gem specifying a remote git repository (use github)" do
-      expect(@gemfile_text 
 
     describe "groups" do
       after :each do
